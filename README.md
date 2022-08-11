@@ -1,2 +1,2 @@
-# ValuePassingvsReferencePassing
-Two functions that demonstrate difference between passing value types and reference types
+# Two Classes One Interface
+Write small application that make use of an interface.
