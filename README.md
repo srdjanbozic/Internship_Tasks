@@ -1,2 +1,2 @@
-# ValuePassingvsReferencePassing
-Two functions that demonstrate difference between passing value types and reference types
+# OOP Concepts
+Write small aplication that use oop concepts.
