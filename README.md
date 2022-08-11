@@ -1,2 +1,2 @@
-# ValuePassingvsReferencePassing
-Two functions that demonstrate difference between passing value types and reference types
+# Akvelon Internship Tasks
+Repository made for akvelon internship tasks and project.
