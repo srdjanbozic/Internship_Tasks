@@ -1,2 +1,2 @@
-# ValuePassingvsReferencePassing
-Two functions that demonstrate difference between passing value types and reference types
+# Dictionary
+Write small aplication that makes use of dictionary.
