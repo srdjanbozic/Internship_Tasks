@@ -1,2 +1,2 @@
 # OOP Concepts
-Write small aplication that use oop concepts.
+Small aplication that makes use of object-oriented principles.
