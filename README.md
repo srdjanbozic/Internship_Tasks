@@ -1,2 +1,2 @@
 # Two Classes One Interface
-Write small application that make use of an interface.
+Write two classes that implement the same interface. Write a function that accepts a class implementing an interface you wrote and try passing each class to it.
