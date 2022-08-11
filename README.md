@@ -1,2 +1,2 @@
 # Stack
-Write small applicatio that use stack.
+Write small application that makes use of stack.
