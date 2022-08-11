@@ -1,2 +1,2 @@
 # ValuePassingvsReferencePassing
-Show difference between passing a value type and reference type
+Two functions that demonstrate difference between passing value types and reference types
