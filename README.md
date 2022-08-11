@@ -1,2 +1,2 @@
 # Queue
-Small aplication that uses a queue.
+Write small aplication that makes use of queue.
