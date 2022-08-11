@@ -1,0 +1,11 @@
+C:\Users\Altos\source\repos\UseOfProtectedProperties\UseOfProtectedProperties\obj\Debug\netcoreapp2.1\UseOfProtectedProperties.csprojAssemblyReference.cache
+C:\Users\Altos\source\repos\UseOfProtectedProperties\UseOfProtectedProperties\obj\Debug\netcoreapp2.1\UseOfProtectedProperties.csproj.CoreCompileInputs.cache
+C:\Users\Altos\source\repos\UseOfProtectedProperties\UseOfProtectedProperties\obj\Debug\netcoreapp2.1\UseOfProtectedProperties.AssemblyInfoInputs.cache
+C:\Users\Altos\source\repos\UseOfProtectedProperties\UseOfProtectedProperties\obj\Debug\netcoreapp2.1\UseOfProtectedProperties.AssemblyInfo.cs
+C:\Users\Altos\source\repos\UseOfProtectedProperties\UseOfProtectedProperties\bin\Debug\netcoreapp2.1\UseOfProtectedProperties.deps.json
+C:\Users\Altos\source\repos\UseOfProtectedProperties\UseOfProtectedProperties\bin\Debug\netcoreapp2.1\UseOfProtectedProperties.runtimeconfig.json
+C:\Users\Altos\source\repos\UseOfProtectedProperties\UseOfProtectedProperties\bin\Debug\netcoreapp2.1\UseOfProtectedProperties.runtimeconfig.dev.json
+C:\Users\Altos\source\repos\UseOfProtectedProperties\UseOfProtectedProperties\bin\Debug\netcoreapp2.1\UseOfProtectedProperties.dll
+C:\Users\Altos\source\repos\UseOfProtectedProperties\UseOfProtectedProperties\bin\Debug\netcoreapp2.1\UseOfProtectedProperties.pdb
+C:\Users\Altos\source\repos\UseOfProtectedProperties\UseOfProtectedProperties\obj\Debug\netcoreapp2.1\UseOfProtectedProperties.dll
+C:\Users\Altos\source\repos\UseOfProtectedProperties\UseOfProtectedProperties\obj\Debug\netcoreapp2.1\UseOfProtectedProperties.pdb
