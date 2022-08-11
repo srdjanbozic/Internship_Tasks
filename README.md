@@ -1,2 +1,2 @@
-# ValuePassingvsReferencePassing
-Two functions that demonstrate difference between passing value types and reference types
+# Use of protected properties
+Write small aplication that make use of protected properties.
