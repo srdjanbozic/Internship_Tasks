@@ -1,0 +1,11 @@
+C:\Users\Altos\source\repos\Two_Classes_One_Interface\Two_Classes_One_Interface\bin\Debug\netcoreapp2.1\Two_Classes_One_Interface.deps.json
+C:\Users\Altos\source\repos\Two_Classes_One_Interface\Two_Classes_One_Interface\bin\Debug\netcoreapp2.1\Two_Classes_One_Interface.runtimeconfig.json
+C:\Users\Altos\source\repos\Two_Classes_One_Interface\Two_Classes_One_Interface\bin\Debug\netcoreapp2.1\Two_Classes_One_Interface.runtimeconfig.dev.json
+C:\Users\Altos\source\repos\Two_Classes_One_Interface\Two_Classes_One_Interface\bin\Debug\netcoreapp2.1\Two_Classes_One_Interface.dll
+C:\Users\Altos\source\repos\Two_Classes_One_Interface\Two_Classes_One_Interface\bin\Debug\netcoreapp2.1\Two_Classes_One_Interface.pdb
+C:\Users\Altos\source\repos\Two_Classes_One_Interface\Two_Classes_One_Interface\obj\Debug\netcoreapp2.1\Two_Classes_One_Interface.csprojAssemblyReference.cache
+C:\Users\Altos\source\repos\Two_Classes_One_Interface\Two_Classes_One_Interface\obj\Debug\netcoreapp2.1\Two_Classes_One_Interface.csproj.CoreCompileInputs.cache
+C:\Users\Altos\source\repos\Two_Classes_One_Interface\Two_Classes_One_Interface\obj\Debug\netcoreapp2.1\Two_Classes_One_Interface.AssemblyInfoInputs.cache
+C:\Users\Altos\source\repos\Two_Classes_One_Interface\Two_Classes_One_Interface\obj\Debug\netcoreapp2.1\Two_Classes_One_Interface.AssemblyInfo.cs
+C:\Users\Altos\source\repos\Two_Classes_One_Interface\Two_Classes_One_Interface\obj\Debug\netcoreapp2.1\Two_Classes_One_Interface.dll
+C:\Users\Altos\source\repos\Two_Classes_One_Interface\Two_Classes_One_Interface\obj\Debug\netcoreapp2.1\Two_Classes_One_Interface.pdb
