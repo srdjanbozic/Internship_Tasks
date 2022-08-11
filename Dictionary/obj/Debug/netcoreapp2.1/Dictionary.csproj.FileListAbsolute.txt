@@ -1,0 +1,11 @@
+C:\Users\Altos\source\repos\Dictionary\Dictionary\bin\Debug\netcoreapp2.1\Dictionary.deps.json
+C:\Users\Altos\source\repos\Dictionary\Dictionary\bin\Debug\netcoreapp2.1\Dictionary.runtimeconfig.json
+C:\Users\Altos\source\repos\Dictionary\Dictionary\bin\Debug\netcoreapp2.1\Dictionary.runtimeconfig.dev.json
+C:\Users\Altos\source\repos\Dictionary\Dictionary\bin\Debug\netcoreapp2.1\Dictionary.dll
+C:\Users\Altos\source\repos\Dictionary\Dictionary\bin\Debug\netcoreapp2.1\Dictionary.pdb
+C:\Users\Altos\source\repos\Dictionary\Dictionary\obj\Debug\netcoreapp2.1\Dictionary.csprojAssemblyReference.cache
+C:\Users\Altos\source\repos\Dictionary\Dictionary\obj\Debug\netcoreapp2.1\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Altos\source\repos\Dictionary\Dictionary\obj\Debug\netcoreapp2.1\Dictionary.AssemblyInfoInputs.cache
+C:\Users\Altos\source\repos\Dictionary\Dictionary\obj\Debug\netcoreapp2.1\Dictionary.AssemblyInfo.cs
+C:\Users\Altos\source\repos\Dictionary\Dictionary\obj\Debug\netcoreapp2.1\Dictionary.dll
+C:\Users\Altos\source\repos\Dictionary\Dictionary\obj\Debug\netcoreapp2.1\Dictionary.pdb
