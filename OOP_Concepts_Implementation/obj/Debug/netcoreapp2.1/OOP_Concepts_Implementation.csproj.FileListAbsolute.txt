@@ -1,0 +1,11 @@
+C:\Users\Altos\source\repos\OOP_Concepts_Implementation\OOP_Concepts_Implementation\bin\Debug\netcoreapp2.1\OOP_Concepts_Implementation.deps.json
+C:\Users\Altos\source\repos\OOP_Concepts_Implementation\OOP_Concepts_Implementation\bin\Debug\netcoreapp2.1\OOP_Concepts_Implementation.runtimeconfig.json
+C:\Users\Altos\source\repos\OOP_Concepts_Implementation\OOP_Concepts_Implementation\bin\Debug\netcoreapp2.1\OOP_Concepts_Implementation.runtimeconfig.dev.json
+C:\Users\Altos\source\repos\OOP_Concepts_Implementation\OOP_Concepts_Implementation\bin\Debug\netcoreapp2.1\OOP_Concepts_Implementation.dll
+C:\Users\Altos\source\repos\OOP_Concepts_Implementation\OOP_Concepts_Implementation\bin\Debug\netcoreapp2.1\OOP_Concepts_Implementation.pdb
+C:\Users\Altos\source\repos\OOP_Concepts_Implementation\OOP_Concepts_Implementation\obj\Debug\netcoreapp2.1\OOP_Concepts_Implementation.csprojAssemblyReference.cache
+C:\Users\Altos\source\repos\OOP_Concepts_Implementation\OOP_Concepts_Implementation\obj\Debug\netcoreapp2.1\OOP_Concepts_Implementation.csproj.CoreCompileInputs.cache
+C:\Users\Altos\source\repos\OOP_Concepts_Implementation\OOP_Concepts_Implementation\obj\Debug\netcoreapp2.1\OOP_Concepts_Implementation.AssemblyInfoInputs.cache
+C:\Users\Altos\source\repos\OOP_Concepts_Implementation\OOP_Concepts_Implementation\obj\Debug\netcoreapp2.1\OOP_Concepts_Implementation.AssemblyInfo.cs
+C:\Users\Altos\source\repos\OOP_Concepts_Implementation\OOP_Concepts_Implementation\obj\Debug\netcoreapp2.1\OOP_Concepts_Implementation.dll
+C:\Users\Altos\source\repos\OOP_Concepts_Implementation\OOP_Concepts_Implementation\obj\Debug\netcoreapp2.1\OOP_Concepts_Implementation.pdb
