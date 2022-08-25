@@ -1,2 +1,2 @@
 # Akvelon Internship Tasks
-Repository made for akvelon internship tasks and project.
+Use of Stream Reader and IDisposable interface
