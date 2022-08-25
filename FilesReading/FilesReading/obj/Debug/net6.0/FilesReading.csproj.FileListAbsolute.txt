@@ -1,0 +1,15 @@
+C:\Users\Altos\source\repos\FilesReading\FilesReading\bin\Debug\net6.0\FilesReading.exe
+C:\Users\Altos\source\repos\FilesReading\FilesReading\bin\Debug\net6.0\FilesReading.deps.json
+C:\Users\Altos\source\repos\FilesReading\FilesReading\bin\Debug\net6.0\FilesReading.runtimeconfig.json
+C:\Users\Altos\source\repos\FilesReading\FilesReading\bin\Debug\net6.0\FilesReading.dll
+C:\Users\Altos\source\repos\FilesReading\FilesReading\bin\Debug\net6.0\FilesReading.pdb
+C:\Users\Altos\source\repos\FilesReading\FilesReading\obj\Debug\net6.0\FilesReading.csproj.AssemblyReference.cache
+C:\Users\Altos\source\repos\FilesReading\FilesReading\obj\Debug\net6.0\FilesReading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Altos\source\repos\FilesReading\FilesReading\obj\Debug\net6.0\FilesReading.AssemblyInfoInputs.cache
+C:\Users\Altos\source\repos\FilesReading\FilesReading\obj\Debug\net6.0\FilesReading.AssemblyInfo.cs
+C:\Users\Altos\source\repos\FilesReading\FilesReading\obj\Debug\net6.0\FilesReading.csproj.CoreCompileInputs.cache
+C:\Users\Altos\source\repos\FilesReading\FilesReading\obj\Debug\net6.0\FilesReading.dll
+C:\Users\Altos\source\repos\FilesReading\FilesReading\obj\Debug\net6.0\refint\FilesReading.dll
+C:\Users\Altos\source\repos\FilesReading\FilesReading\obj\Debug\net6.0\FilesReading.pdb
+C:\Users\Altos\source\repos\FilesReading\FilesReading\obj\Debug\net6.0\FilesReading.genruntimeconfig.cache
+C:\Users\Altos\source\repos\FilesReading\FilesReading\obj\Debug\net6.0\ref\FilesReading.dll
